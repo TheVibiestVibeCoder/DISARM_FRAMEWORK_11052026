@@ -540,7 +540,7 @@ class Disarm:
 
             # Update or create file for every object with this objecttype type
             template = open('page_templates/template_{}.md'.format(objecttype), 'r', encoding='utf-8').read()
-            for index, row in df[df['name'].notnull()].iterrows():
+            for index, row in df[df['name'] != ''].iterrows():
 
                 # First read in the file - if it exists - and grab everything 
                 # below the "do not write about this line". Will write this 

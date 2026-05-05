@@ -18,7 +18,7 @@
 </tr>
 <tr>
 <td><a href="phases/P07.md">P07</a></td>
-<td>Content</td>
-<td>This category contains Techniques and Sub-Techniques which can be used to describe content published online.</td>
+<td>Materials</td>
+<td></td>
 </tr>
 </table>

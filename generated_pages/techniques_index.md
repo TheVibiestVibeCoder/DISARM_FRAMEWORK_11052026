@@ -8,2055 +8,2037 @@
 <th>tactic_id</th>
 </tr>
 <tr>
-<td><a href="techniques/T0016.md">T0016</a></td>
-<td>Create Clickbait</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0016.000.md">T0016.000</a></td>
-<td>Create Clickbait</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0017.md">T0017</a></td>
-<td>Conduct Fundraising</td>
-<td></td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0017.000.md">T0017.000</a></td>
-<td>Conduct Fundraising</td>
-<td></td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0017.001.md">T0017.001</a></td>
-<td>Conduct Crowdfunding Campaigns</td>
-<td></td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0029.md">T0029</a></td>
-<td>Online Polls</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0029.000.md">T0029.000</a></td>
-<td>Online Polls</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0046.md">T0046</a></td>
-<td>Use Search Engine Optimisation</td>
-<td></td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0046.000.md">T0046.000</a></td>
-<td>Use Search Engine Optimisation</td>
-<td></td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0057.md">T0057</a></td>
-<td>Organise Events</td>
-<td></td>
-<td>TA26</td>
-</tr>
-<tr>
-<td><a href="techniques/T0057.000.md">T0057.000</a></td>
-<td>Organise Events</td>
-<td></td>
-<td>TA26</td>
-</tr>
-<tr>
-<td><a href="techniques/T0057.001.md">T0057.001</a></td>
-<td>Pay for Physical Action</td>
-<td></td>
-<td>TA26</td>
-</tr>
-<tr>
-<td><a href="techniques/T0057.003.md">T0057.003</a></td>
-<td>Physical Gathering</td>
-<td></td>
-<td>TA26</td>
-</tr>
-<tr>
-<td><a href="techniques/T0057.004.md">T0057.004</a></td>
-<td>Facilitate Attendance</td>
-<td></td>
-<td>TA26</td>
-</tr>
-<tr>
-<td><a href="techniques/T0068.md">T0068</a></td>
-<td>Respond to Breaking News Event or Active Crisis</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0068.000.md">T0068.000</a></td>
-<td>Respond to Breaking News Event or Active Crisis</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.md">T0097</a></td>
-<td>Presented Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.100.md">T0097.100</a></td>
-<td>Individual Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.101.md">T0097.101</a></td>
-<td>Local Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.102.md">T0097.102</a></td>
-<td>Journalist Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.103.md">T0097.103</a></td>
-<td>Activist Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.104.md">T0097.104</a></td>
-<td>Hacktivist Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.105.md">T0097.105</a></td>
-<td>Military Personnel Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.106.md">T0097.106</a></td>
-<td>Recruiter Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.107.md">T0097.107</a></td>
-<td>Researcher Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.108.md">T0097.108</a></td>
-<td>Expert Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.109.md">T0097.109</a></td>
-<td>Romantic Suitor Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.110.md">T0097.110</a></td>
-<td>Party Official Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.111.md">T0097.111</a></td>
-<td>Government Official Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.112.md">T0097.112</a></td>
-<td>Government Employee Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.113.md">T0097.113</a></td>
-<td>Law Enforcement Officer Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.114.md">T0097.114</a></td>
-<td>Sex Worker Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.200.md">T0097.200</a></td>
-<td>Institutional Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.201.md">T0097.201</a></td>
-<td>Local Institution Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.202.md">T0097.202</a></td>
-<td>News Outlet Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.203.md">T0097.203</a></td>
-<td>Fact Checking Organisation Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.204.md">T0097.204</a></td>
-<td>Think Tank Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.205.md">T0097.205</a></td>
-<td>Business Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.206.md">T0097.206</a></td>
-<td>Government Institution Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.207.md">T0097.207</a></td>
-<td>NGO Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.208.md">T0097.208</a></td>
-<td>Social Cause Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0097.209.md">T0097.209</a></td>
-<td>Adult Entertainment Outlet Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0114.md">T0114</a></td>
-<td>Deliver Ads</td>
-<td></td>
-<td>TA27</td>
-</tr>
-<tr>
-<td><a href="techniques/T0114.000.md">T0114.000</a></td>
-<td>Deliver Ads</td>
-<td></td>
-<td>TA27</td>
-</tr>
-<tr>
-<td><a href="techniques/T0114.003.md">T0114.003</a></td>
-<td>Mislabelled Ad</td>
-<td></td>
-<td>TA27</td>
-</tr>
-<tr>
-<td><a href="techniques/T0117.md">T0117</a></td>
-<td>Linked Content</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0117.000.md">T0117.000</a></td>
-<td>Linked Content</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0117.001.md">T0117.001</a></td>
-<td>Link in Content</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0117.002.md">T0117.002</a></td>
-<td>Disguised Link</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0117.003.md">T0117.003</a></td>
-<td>Shortened Link Asset</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0119.md">T0119</a></td>
-<td>Cross-Posting</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0119.000.md">T0119.000</a></td>
-<td>Cross-Posting</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0119.001.md">T0119.001</a></td>
-<td>Post across Groups</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0119.002.md">T0119.002</a></td>
-<td>Post across Platform</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0119.003.md">T0119.003</a></td>
-<td>Post across Disciplines</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0127.md">T0127</a></td>
-<td>Offline Harm</td>
-<td></td>
-<td>TA26</td>
-</tr>
-<tr>
-<td><a href="techniques/T0127.001.md">T0127.001</a></td>
-<td>Physical Violence</td>
-<td>This sub-technique can be used to document the act of committing offline violence.<br><br>Physical violence refers to the intentional use of physical force to cause harm, injury, disability, or death to another person or group</td>
-<td>TA26</td>
-</tr>
-<tr>
-<td><a href="techniques/T0127.003.md">T0127.003</a></td>
-<td>Physical Sexual Violence</td>
-<td>This sub-technique can be used to document the act of committing offline sexual violence.<br><br>Sexual violence refers to any sexual act or attempt to obtain a sexual act by coercion, force, or manipulation, denying an individual the ability to freely consent. It includes a range of behaviors such as rape, sexual assault, unwanted sexual touching, sexual harassment, and exploitation.</td>
-<td>TA26</td>
-</tr>
-<tr>
-<td><a href="techniques/T0143.md">T0143</a></td>
-<td>Persona Legitimacy</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0143.001.md">T0143.001</a></td>
-<td>Authentic Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0143.002.md">T0143.002</a></td>
-<td>Fabricated Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0143.003.md">T0143.003</a></td>
-<td>Impersonated Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0143.004.md">T0143.004</a></td>
-<td>Parody Persona</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0143.005.md">T0143.005</a></td>
-<td>Persona Presented across Platforms</td>
-<td></td>
-<td>TA22</td>
-</tr>
-<tr>
-<td><a href="techniques/T0145.md">T0145</a></td>
-<td>Establish Account Imagery</td>
-<td></td>
+<td><a href="techniques/T2001.md">T2001</a></td>
+<td>User Asset</td>
+<td>This Category contains different types of user which can take action online</td>
 <td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0145.000.md">T0145.000</a></td>
-<td>Establish Account Imagery</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0145.001.md">T0145.001</a></td>
-<td>Copy Account Imagery</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0145.002.md">T0145.002</a></td>
-<td>AI-Generated Account Imagery</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0145.003.md">T0145.003</a></td>
-<td>Animal Account Imagery</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0145.004.md">T0145.004</a></td>
-<td>Scenery Account Imagery</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0145.005.md">T0145.005</a></td>
-<td>Illustrated Character Account Imagery</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0145.006.md">T0145.006</a></td>
-<td>Attractive Person Account Imagery</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0145.007.md">T0145.007</a></td>
-<td>Stock Image Account Imagery</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.md">T0146</a></td>
+<td><a href="techniques/T2001.001.md">T2001.001</a></td>
 <td>Account Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.000.md">T0146.000</a></td>
-<td>Account Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.001.md">T0146.001</a></td>
-<td>Free Account Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.002.md">T0146.002</a></td>
-<td>Paid Account Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.003.md">T0146.003</a></td>
-<td>Verified Account Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.004.md">T0146.004</a></td>
-<td>Administrator Account Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.005.md">T0146.005</a></td>
-<td>Lookalike Account ID</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.006.md">T0146.006</a></td>
-<td>Open Access Platform</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0146.007.md">T0146.007</a></td>
-<td>Automated Account Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0147.md">T0147</a></td>
-<td>Software Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0147.000.md">T0147.000</a></td>
-<td>Software Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0147.001.md">T0147.001</a></td>
-<td>Game Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0147.002.md">T0147.002</a></td>
-<td>Game Mod Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0147.003.md">T0147.003</a></td>
-<td>Malware Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0147.004.md">T0147.004</a></td>
-<td>Mobile App Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.md">T0148</a></td>
-<td>Financial Instrument</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.001.md">T0148.001</a></td>
-<td>Online Banking Platform</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.002.md">T0148.002</a></td>
-<td>Bank Account Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.003.md">T0148.003</a></td>
-<td>Payment Processing Platform</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.004.md">T0148.004</a></td>
-<td>Payment Processing Capability</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.005.md">T0148.005</a></td>
-<td>Subscription Processing Capability</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.006.md">T0148.006</a></td>
-<td>Crowdfunding Platform</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.007.md">T0148.007</a></td>
-<td>eCommerce Platform</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.008.md">T0148.008</a></td>
-<td>Cryptocurrency Exchange Platform</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0148.009.md">T0148.009</a></td>
-<td>Cryptocurrency Wallet</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.md">T0149</a></td>
-<td>Online Infrastructure</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.000.md">T0149.000</a></td>
-<td>Online Infrastructure</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.001.md">T0149.001</a></td>
-<td>Domain Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.002.md">T0149.002</a></td>
-<td>Email Domain Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.003.md">T0149.003</a></td>
-<td>Lookalike Domain</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.004.md">T0149.004</a></td>
-<td>Redirecting Domain Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.005.md">T0149.005</a></td>
-<td>Server Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.006.md">T0149.006</a></td>
-<td>IP Address Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.007.md">T0149.007</a></td>
-<td>VPN Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.008.md">T0149.008</a></td>
-<td>Proxy IP Address Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.009.md">T0149.009</a></td>
-<td>Internet Connected Physical Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.010.md">T0149.010</a></td>
-<td>C2 Infrastructure Asset</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0149.011.md">T0149.011</a></td>
-<td>Cloud Service Provider Platform</td>
-<td></td>
-<td>TA19</td>
-</tr>
-<tr>
-<td><a href="techniques/T0150.md">T0150</a></td>
-<td>Asset Origin</td>
-<td></td>
+<td>The Asset is a user account</td>
 <td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0150.001.md">T0150.001</a></td>
-<td>Newly Created Asset</td>
-<td></td>
+<td><a href="techniques/T2001.002.md">T2001.002</a></td>
+<td>Admin Account Asset</td>
+<td>The Asset is an administrator account</td>
 <td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0150.002.md">T0150.002</a></td>
-<td>Dormant Asset</td>
-<td></td>
+<td><a href="techniques/T2001.003.md">T2001.003</a></td>
+<td>Unauthenticated Account Asset</td>
+<td>The Asset is an unauthenticated / guest account on a Platform which does not mandate account creation to take actions on it</td>
 <td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0150.003.md">T0150.003</a></td>
-<td>Pre-Existing Asset</td>
-<td></td>
+<td><a href="techniques/T2002.md">T2002</a></td>
+<td>Community Asset</td>
+<td>The Asset is an online community in which users can interact with each other</td>
 <td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0150.005.md">T0150.005</a></td>
-<td>Compromised Asset</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0150.006.md">T0150.006</a></td>
-<td>Purchased Asset</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0150.007.md">T0150.007</a></td>
-<td>Rented Asset</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0150.008.md">T0150.008</a></td>
-<td>Bulk Created Asset</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.md">T0151</a></td>
-<td>Digital Community Hosting Asset</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.000.md">T0151.000</a></td>
-<td>Digital Community Hosting Asset</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.001.md">T0151.001</a></td>
-<td>Social Media Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.002.md">T0151.002</a></td>
+<td><a href="techniques/T2002.001.md">T2002.001</a></td>
 <td>Online Community Group</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a 'group' created using a Platform's native features (e.g. Facebook Group)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0151.003.md">T0151.003</a></td>
+<td><a href="techniques/T2002.002.md">T2002.002</a></td>
 <td>Online Community Page</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a 'page' created using a Platform's native features (e.g. Facebook Page)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0151.004.md">T0151.004</a></td>
-<td>Chat Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.005.md">T0151.005</a></td>
+<td><a href="techniques/T2002.003.md">T2002.003</a></td>
 <td>Chat Community Server</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a collection of chat rooms and/or chat broadcast groups organised into a server (e.g. a Discord or Slack server)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0151.006.md">T0151.006</a></td>
+<td><a href="techniques/T2002.004.md">T2002.004</a></td>
 <td>Chat Room</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a closed group where three or more users can send messages to each other</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0151.007.md">T0151.007</a></td>
+<td><a href="techniques/T2002.005.md">T2002.005</a></td>
 <td>Chat Broadcast Group</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a closed group where 'administrators' can send messages to a community who may react to, comment on, or forward the messages</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0151.008.md">T0151.008</a></td>
-<td>Microblogging Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.009.md">T0151.009</a></td>
-<td>Legacy Online Forum Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.010.md">T0151.010</a></td>
-<td>Community Forum Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.011.md">T0151.011</a></td>
+<td><a href="techniques/T2002.006.md">T2002.006</a></td>
 <td>Community Sub-Forum</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a sub-forum on a community forum platform (e.g. a Subreddit)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0151.012.md">T0151.012</a></td>
-<td>Image Board Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.013.md">T0151.013</a></td>
-<td>Question and Answer Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.015.md">T0151.015</a></td>
-<td>Online Game Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0151.016.md">T0151.016</a></td>
+<td><a href="techniques/T2002.007.md">T2002.007</a></td>
 <td>Online Game Session</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a session for an online game (e.g. a Roblox or Minecraft server)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0151.017.md">T0151.017</a></td>
+<td><a href="techniques/T2003.md">T2003</a></td>
+<td>Community Hosting Platform</td>
+<td>The Asset is a Platform which is primarily designed for users to interact with each other as part of a community</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.001.md">T2003.001</a></td>
+<td>Social Media Platform</td>
+<td>The Asset is a Social Media Platform (e.g. Facebook, Instagram)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.002.md">T2003.002</a></td>
+<td>Chat Platform</td>
+<td>The Asset is a Chat Platform (e.g. Whastapp, Discord)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.003.md">T2003.003</a></td>
+<td>Microblogging Platform</td>
+<td>The Asset is a Microblogging Platform (e.g. Twitter, TikTok, BlueSky)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.004.md">T2003.004</a></td>
+<td>Legacy Online Forum Platform</td>
+<td>The Asset is an old-school forum (e.g. Something Awful, War Thunder)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.005.md">T2003.005</a></td>
+<td>Community Forum Platform</td>
+<td>The Asset is an Online Community Forum (e.g. Reddit)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.006.md">T2003.006</a></td>
+<td>Image Board Platform</td>
+<td>The Asset is an Image Board Platform (e.g. 4chan)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.007.md">T2003.007</a></td>
+<td>Question and Answer Platform</td>
+<td>The Asset is a Q&A Platform (e.g. Quora)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.008.md">T2003.008</a></td>
+<td>Online Game Platform</td>
+<td>The Asset is an Online Game Platform (e.g. Roblox, Minecraft)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2003.009.md">T2003.009</a></td>
 <td>Dating Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Dating Platform (e.g. Tinder, Grindr)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.md">T0152</a></td>
-<td>Digital Content Hosting Asset</td>
-<td></td>
-<td>TA20</td>
+<td><a href="techniques/T2004.md">T2004</a></td>
+<td>Content Hosting Platform</td>
+<td>The Asset is a Platform which is primarily designed for users to upload and consume content</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.000.md">T0152.000</a></td>
-<td>Digital Content Hosting Asset</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0152.001.md">T0152.001</a></td>
-<td>Blogging Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0152.002.md">T0152.002</a></td>
-<td>Blog Asset</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0152.003.md">T0152.003</a></td>
-<td>Website Hosting Platform</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0152.004.md">T0152.004</a></td>
+<td><a href="techniques/T2004.001.md">T2004.001</a></td>
 <td>Website Asset</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a collection of associated webpages under a single domain</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.005.md">T0152.005</a></td>
+<td><a href="techniques/T2004.002.md">T2004.002</a></td>
 <td>Paste Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Platform designed for sharing plaintext (e.g. Pastebin)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.006.md">T0152.006</a></td>
+<td><a href="techniques/T2004.003.md">T2004.003</a></td>
 <td>Video Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Platform designed for publishing and viewing video-based content (e.g. YouTube, Vimeo)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.007.md">T0152.007</a></td>
+<td><a href="techniques/T2004.004.md">T2004.004</a></td>
 <td>Audio Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Platform designed for publishing and listening to audio-based content (e.g. Spotify, Soundcloud, PodBean)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.008.md">T0152.008</a></td>
+<td><a href="techniques/T2004.005.md">T2004.005</a></td>
 <td>Live Streaming Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Platform designed for users to stream live content to their audience (e.g. Twitch, Kick)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.009.md">T0152.009</a></td>
+<td><a href="techniques/T2004.006.md">T2004.006</a></td>
 <td>Software Delivery Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Platform designed for publishing and downloading software (e.g. Apple App Store, Google Play Store, Steam)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.010.md">T0152.010</a></td>
+<td><a href="techniques/T2004.007.md">T2004.007</a></td>
 <td>File Hosting Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Platform designed for hosting and sharing files online (e.g. Google Drive, Dropbox)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.011.md">T0152.011</a></td>
+<td><a href="techniques/T2004.008.md">T2004.008</a></td>
 <td>Wiki Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Platform designed for online knowledge management (e.g. Wikipedia)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0152.012.md">T0152.012</a></td>
-<td>Subscription Service Platform</td>
-<td></td>
-<td>TA20</td>
+<td><a href="techniques/T2004.009.md">T2004.009</a></td>
+<td>Content Subscription Service Platform</td>
+<td>The Asset is a Platform designed for allowing users to charge a subscription for content, access, or other benefits (e.g. Patreon, OnlyFans)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0153.md">T0153</a></td>
-<td>Digital Content Delivery Asset</td>
-<td></td>
-<td>TA20</td>
+<td><a href="techniques/T2004.010.md">T2004.010</a></td>
+<td>Blog Asset</td>
+<td>The Asset is a blog in which people post typically informal articles</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0153.000.md">T0153.000</a></td>
-<td>Digital Content Delivery Asset</td>
-<td></td>
-<td>TA20</td>
+<td><a href="techniques/T2005.md">T2005</a></td>
+<td>Digital Service Platform</td>
+<td>The Asset is a Platform which is primarily designed to provide a digital service to their users</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0153.001.md">T0153.001</a></td>
-<td>Email Platform</td>
-<td></td>
-<td>TA20</td>
+<td><a href="techniques/T2005.001.md">T2005.001</a></td>
+<td>Blog Hosting Service Platform</td>
+<td>The Asset is a Platform which hosts Blogs (e.g. Medium, Substack)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0153.002.md">T0153.002</a></td>
-<td>Link Shortening Platform</td>
-<td></td>
-<td>TA20</td>
+<td><a href="techniques/T2005.002.md">T2005.002</a></td>
+<td>Website Hosting Service Platform</td>
+<td>The Asset is a Platform which hosts Websites (e.g. Webflow, Weebly, Wix)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0153.003.md">T0153.003</a></td>
+<td><a href="techniques/T2005.003.md">T2005.003</a></td>
+<td>Email Service Platform</td>
+<td>The Asset is a Platform which provides Email service (e.g. GMail, Proton Mail, Microsoft Office)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2005.004.md">T2005.004</a></td>
+<td>Link Shortening Service Platform</td>
+<td>The Asset is a Link Shortening Service provder (e.g. Bitly, TinyURL)</td>
+<td>TA21</td>
+</tr>
+<tr>
+<td><a href="techniques/T2005.005.md">T2005.005</a></td>
 <td>Online Advertising Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is an Online Advertising platform (e.g. Meta Ads, Google Ads, Amazon Ads)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0153.004.md">T0153.004</a></td>
-<td>Content Recommendation Algorithm</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0153.005.md">T0153.005</a></td>
-<td>Direct Messaging</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0153.006.md">T0153.006</a></td>
-<td>Ad Space Asset</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0153.007.md">T0153.007</a></td>
+<td><a href="techniques/T2005.006.md">T2005.006</a></td>
 <td>Search Engine Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is a Search Engine Platform (e.g. Google, DuckDuckGo, Ecosia)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0154.md">T0154</a></td>
-<td>Digital Content Creation Asset</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0154.000.md">T0154.000</a></td>
-<td>Digital Content Creation Asset</td>
-<td></td>
-<td>TA20</td>
-</tr>
-<tr>
-<td><a href="techniques/T0154.001.md">T0154.001</a></td>
+<td><a href="techniques/T2005.007.md">T2005.007</a></td>
 <td>AI LLM Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is an AI LLM provider (e.g. LeChat, Claude, Gemini)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0154.002.md">T0154.002</a></td>
+<td><a href="techniques/T2005.008.md">T2005.008</a></td>
 <td>AI Media Platform</td>
-<td></td>
-<td>TA20</td>
+<td>The Asset is an AI Media generator (e.g. Midjourney, DALL-E, Gemini)</td>
+<td>TA21</td>
 </tr>
 <tr>
-<td><a href="techniques/T0155.md">T0155</a></td>
+<td><a href="techniques/T2021.md">T2021</a></td>
+<td>Asset Configuration</td>
+<td>This Category contains ways to describe how an Asset has been configured</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2021.001.md">T2021.001</a></td>
+<td>Verified Asset</td>
+<td>The Asset displays an indicator that it has been verified by the Platform it operates on</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2021.002.md">T2021.002</a></td>
+<td>Lookalike Asset ID</td>
+<td>The Asset has an identifier (e.g. account handle) which is visually similar to another asset's identifier</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2021.003.md">T2021.003</a></td>
+<td>Lookalike Domain</td>
+<td>The observed Platform has a domain which is visually similar to another Platform's domain (AKA typosquat)</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2022.md">T2022</a></td>
+<td>Asset Description</td>
+<td>This Category contains ways to describe how an Asset has described itself (e.g. a User or Community's biography field, a Platform's 'About us' page)</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2023.md">T2023</a></td>
+<td>Asset Imagery</td>
+<td>This Category contains ways to describe the imagery with which an Asset has been configured</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2023.001.md">T2023.001</a></td>
+<td>Copied Asset Imagery</td>
+<td>The Asset uses imagery which is the same as imagery already used by another Asset</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2023.002.md">T2023.002</a></td>
+<td>Mimicked Asset Imagery</td>
+<td>The Asset uses imagery which is visually similar (but not the same as) imagery already used by another Asset (e.g. mimicking colour scheme, typography)</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2023.003.md">T2023.003</a></td>
+<td>Animal Profile Picture</td>
+<td>The User has an animal set as their profile picture</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2023.004.md">T2023.004</a></td>
+<td>Scenery Profile Picture</td>
+<td>The User has scenery set as their profile picture</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2023.005.md">T2023.005</a></td>
+<td>Illustrated Character Profile Picture</td>
+<td>The User has an illustrated character (e.g. Anime, Manga, Cartoon) set as their profile picture</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2023.006.md">T2023.006</a></td>
+<td>Attractive Person Profile Picture</td>
+<td>The User has an attractive person set as their profile picture</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2024.md">T2024</a></td>
+<td>Platform Capability</td>
+<td>This Category contains ways to document different Capabilities a Platform may have</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2024.001.md">T2024.001</a></td>
+<td>Payment Processing Capability</td>
+<td>The Platform has the capability to proccess one time payments</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2024.002.md">T2024.002</a></td>
+<td>Subscription Processing Capability</td>
+<td>The Platform has the capability to process payments on a recurring, automated basis</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2024.003.md">T2024.003</a></td>
+<td>Email Service Capability</td>
+<td>The Platform has the capability to send and recieve emails</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2024.004.md">T2024.004</a></td>
+<td>Encrypted Communication Capability</td>
+<td>Communications sent on this platform are encrypted</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2025.md">T2025</a></td>
+<td>Asset Gating</td>
+<td>This Category contains ways to describe how access to an Asset is gated</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2025.001.md">T2025.001</a></td>
 <td>Gated Asset</td>
-<td></td>
-<td>TA21</td>
+<td>The Asset prevents access to it in some way (i.e. it is 'gated')</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0155.000.md">T0155.000</a></td>
-<td>Gated Asset</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0155.001.md">T0155.001</a></td>
-<td>Password Gated Asset</td>
-<td></td>
-<td>TA21</td>
-</tr>
-<tr>
-<td><a href="techniques/T0155.002.md">T0155.002</a></td>
+<td><a href="techniques/T2025.002.md">T2025.002</a></td>
 <td>Invite Gated Asset</td>
-<td></td>
-<td>TA21</td>
+<td>The Asset cannot be accessed by users unless the user is invited to access it</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0155.003.md">T0155.003</a></td>
+<td><a href="techniques/T2025.003.md">T2025.003</a></td>
 <td>Approval Gated Asset</td>
-<td></td>
-<td>TA21</td>
+<td>The Asset cannot be accessed by users unless they use a Platform's feature to request access to it, and that request is approved</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0155.004.md">T0155.004</a></td>
+<td><a href="techniques/T2025.004.md">T2025.004</a></td>
 <td>Geoblocked Asset</td>
-<td></td>
-<td>TA21</td>
+<td>The Asset is configured to prevent access to users from specified locations</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0155.005.md">T0155.005</a></td>
+<td><a href="techniques/T2025.005.md">T2025.005</a></td>
 <td>Paid Access Asset</td>
-<td></td>
-<td>TA21</td>
+<td>The Asset cannot be accessed by users unless they make a one time payment</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0155.006.md">T0155.006</a></td>
+<td><a href="techniques/T2025.006.md">T2025.006</a></td>
 <td>Subscription Access Asset</td>
-<td></td>
-<td>TA21</td>
+<td>The Asset cannot be accessed by users unless they make a recurring subscription payment</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0155.007.md">T0155.007</a></td>
-<td>Encrypted Communication Channel</td>
-<td></td>
-<td>TA21</td>
+<td><a href="techniques/T2026.md">T2026</a></td>
+<td>Asset Acquisition</td>
+<td>This Category contains ways to describe how an actor acquired an Asset</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0156.md">T0156</a></td>
-<td>Publish Content</td>
-<td></td>
-<td>TA23</td>
+<td><a href="techniques/T2026.001.md">T2026.001</a></td>
+<td>Newly Created Asset</td>
+<td>The Asset was created as part of the observed incident</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0156.000.md">T0156.000</a></td>
-<td>Publish Content</td>
-<td></td>
-<td>TA23</td>
+<td><a href="techniques/T2026.002.md">T2026.002</a></td>
+<td>Pre-Existing Asset</td>
+<td>The Asset was created before the observed incident</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0156.001.md">T0156.001</a></td>
-<td>Create Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.002.md">T0156.002</a></td>
-<td>Delete Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.003.md">T0156.003</a></td>
-<td>Edit Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.004.md">T0156.004</a></td>
-<td>Geotag Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.005.md">T0156.005</a></td>
-<td>Hashtag Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.006.md">T0156.006</a></td>
-<td>Tag Account</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.007.md">T0156.007</a></td>
-<td>Time-Limited Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.008.md">T0156.008</a></td>
-<td>View-Limited Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.009.md">T0156.009</a></td>
-<td>Comment Restricted Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.010.md">T0156.010</a></td>
-<td>Stream Content</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.011.md">T0156.011</a></td>
-<td>Send Message</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.012.md">T0156.012</a></td>
-<td>Initiate Call</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0156.013.md">T0156.013</a></td>
-<td>Upload File</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0157.md">T0157</a></td>
-<td>Amplify Content</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0157.000.md">T0157.000</a></td>
-<td>Amplify Content</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0157.001.md">T0157.001</a></td>
-<td>Repost Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0157.002.md">T0157.002</a></td>
-<td>Quote Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0157.003.md">T0157.003</a></td>
-<td>React to Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0157.004.md">T0157.004</a></td>
-<td>Comment on Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0157.005.md">T0157.005</a></td>
-<td>Forward Message</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0158.md">T0158</a></td>
-<td>Manage Asset</td>
-<td></td>
-<td>TA24</td>
-</tr>
-<tr>
-<td><a href="techniques/T0158.001.md">T0158.001</a></td>
-<td>Configure Asset Description</td>
-<td></td>
-<td>TA24</td>
-</tr>
-<tr>
-<td><a href="techniques/T0158.002.md">T0158.002</a></td>
-<td>Delete Asset</td>
-<td></td>
-<td>TA24</td>
-</tr>
-<tr>
-<td><a href="techniques/T0159.md">T0159</a></td>
-<td>Networked Action</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0159.000.md">T0159.000</a></td>
-<td>Networked Action</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0159.001.md">T0159.001</a></td>
-<td>Concurrent Networked Action</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0159.002.md">T0159.002</a></td>
-<td>Network Fabricates Conversation</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0159.003.md">T0159.003</a></td>
-<td>Network Amplifies Post</td>
-<td></td>
-<td>TA23</td>
-</tr>
-<tr>
-<td><a href="techniques/T0160.md">T0160</a></td>
-<td>Asset Behaviour over Time</td>
-<td></td>
-<td>TA24</td>
-</tr>
-<tr>
-<td><a href="techniques/T0160.001.md">T0160.001</a></td>
-<td>Asset Changes Language</td>
-<td></td>
-<td>TA24</td>
-</tr>
-<tr>
-<td><a href="techniques/T0160.002.md">T0160.002</a></td>
-<td>Asset Operates in Shift Pattern</td>
-<td></td>
-<td>TA24</td>
-</tr>
-<tr>
-<td><a href="techniques/T0160.003.md">T0160.003</a></td>
-<td>Asset Changes Presented Persona</td>
-<td></td>
-<td>TA24</td>
-</tr>
-<tr>
-<td><a href="techniques/T0160.004.md">T0160.004</a></td>
+<td><a href="techniques/T2026.003.md">T2026.003</a></td>
 <td>Asset Activated after Period of Dormancy</td>
-<td></td>
-<td>TA24</td>
+<td>The Asset was took part in the observed incident after a period of dormancy</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.md">T0161</a></td>
-<td>Interact with Platform Community</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2026.004.md">T2026.004</a></td>
+<td>Freely Created Asset</td>
+<td>The Platform the Asset was created on did not charge for creation</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.001.md">T0161.001</a></td>
-<td>Request Connection</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2026.005.md">T2026.005</a></td>
+<td>Paid Created Asset</td>
+<td>The Platform the Asset was created on charged for its creation</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.002.md">T0161.002</a></td>
-<td>Connect with Account</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2026.006.md">T2026.006</a></td>
+<td>Bulk Created Asset</td>
+<td>The Asset was created in bulk alongside other Assets</td>
+<td>TA22</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.003.md">T0161.003</a></td>
+<td><a href="techniques/T2026.007.md">T2026.007</a></td>
+<td>Purchased Existing Asset</td>
+<td>The actor acquired the Asset by purchasing it from another individual or institution</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2026.008.md">T2026.008</a></td>
+<td>Rented Existing Asset</td>
+<td>The actor acquired the Asset by renting it another individual or institution</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2026.009.md">T2026.009</a></td>
+<td>Compromised Existing Asset</td>
+<td>The actor acquired the Asset by compromising another individual or institution's Asset</td>
+<td>TA22</td>
+</tr>
+<tr>
+<td><a href="techniques/T2041.md">T2041</a></td>
+<td>Asset Presented Identity</td>
+<td>This Category contains different ways to document the validity of the presented identity of the individual or institution operating the Asset</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2041.001.md">T2041.001</a></td>
+<td>Asset Presents Anonymous Identity</td>
+<td>The Asset is not presenting an identity (i.e. the individual or institution operating the asset is choosing to not disclose who they are)</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2041.002.md">T2041.002</a></td>
+<td>Asset Presents Legitimate Identity of Asset Operator</td>
+<td>The Identity presetned by the Asset is authentic (i.e. the individual or institution operating the asset is who the Asset claims it to be)</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2041.003.md">T2041.003</a></td>
+<td>Asset Presents Nonexistent Identity</td>
+<td>The Identity presented by the Asset is an individual or institution which doesn't exist</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2041.004.md">T2041.004</a></td>
+<td>Asset Presents Impersonation of Another Identity</td>
+<td>The Identity presented by the Asset is an impersonation of another individual or institution (i.e. it claims to be operated by someone, but it is actually operated by someone else)</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2041.005.md">T2041.005</a></td>
+<td>Asset Presents Parody of Another Identity</td>
+<td>The Identity presented by the Asset is a disclosed parody of an individual or institution</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2041.006.md">T2041.006</a></td>
+<td>Asset's Previous Identity Maintained after Acquisition</td>
+<td>The Identity presented by the Asset has stayed the same even though the actor operating the asset changed</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2041.007.md">T2041.007</a></td>
+<td>Asset Presents New Identity</td>
+<td>The Identity which is being presented by the Asset has changed (e.g. it previously claimed it was operated by someone, now it claims it's being operated by someone else)</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.md">T2042</a></td>
+<td>Individual Role</td>
+<td>The Identity presented as operating the asset is an individual</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.001.md">T2042.001</a></td>
+<td>Local Individual Role</td>
+<td>The Identity presented as operating the asset presents itself as an individual local to a given location</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.002.md">T2042.002</a></td>
+<td>Journalist Role</td>
+<td>The Identity presented as operating the asset presents itself as a journalist</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.003.md">T2042.003</a></td>
+<td>Activist Role</td>
+<td>The Identity presented as operating the asset presents itself as an activist</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.004.md">T2042.004</a></td>
+<td>Hacktivist Role</td>
+<td>The Identity presented as operating the asset presents itself as a hacktivist</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.005.md">T2042.005</a></td>
+<td>Military Personnel Role</td>
+<td>The Identity presented as operating the asset presents itself as a member of the military</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.006.md">T2042.006</a></td>
+<td>Recruiter Role</td>
+<td>The Identity presented as operating the asset presents itself as a recruiter</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.007.md">T2042.007</a></td>
+<td>Researcher Role</td>
+<td>The Identity presented as operating the asset presents itself as a researcher</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.008.md">T2042.008</a></td>
+<td>Expert Role</td>
+<td>The Identity presented as operating the asset presents itself as an expert on a given topic area</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.009.md">T2042.009</a></td>
+<td>Romantic Suitor Role</td>
+<td>The Identity presented as operating the asset presents itself as an individual persuing a romantic or physical relationship</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.010.md">T2042.010</a></td>
+<td>Party Official Role</td>
+<td>The Identity presented as operating the asset presents itself as an individual representing a political party</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.011.md">T2042.011</a></td>
+<td>Government Official Role</td>
+<td>The Identity presented as operating the asset presents itself as an indiviaul serving as a member of the governing party of a country</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.012.md">T2042.012</a></td>
+<td>Government Employee Role</td>
+<td>The Identity presented as operating the asset presents itself as an individual employed to work as part of the government</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.013.md">T2042.013</a></td>
+<td>Law Enforcement Officer Role</td>
+<td>The Identity presented as operating the asset presents itself as a member of law enforcement in a country</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2042.014.md">T2042.014</a></td>
+<td>Sex Worker Role</td>
+<td>The Identity presented as operating the asset presents itself as a sex worker</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.md">T2043</a></td>
+<td>Institutional Role</td>
+<td>The Identity presented as operating the asset is an institution</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.001.md">T2043.001</a></td>
+<td>Local Institution Role</td>
+<td>The Identity presented as operating the asset presents itself as in institution local to a given location</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.002.md">T2043.002</a></td>
+<td>News Outlet Role</td>
+<td>The Identity presented as operating the asset presents itself as a news outlet</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.003.md">T2043.003</a></td>
+<td>Fact Checking Organisation Role</td>
+<td>The Identity presented as operating the asset presents itself as a fact checking organisation</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.004.md">T2043.004</a></td>
+<td>Think Tank Role</td>
+<td>The Identity presented as operating the asset presents itself as a think tank</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.005.md">T2043.005</a></td>
+<td>Business Role</td>
+<td>The Identity presented as operating the asset presents itself as business</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.006.md">T2043.006</a></td>
+<td>Government Institution Role</td>
+<td>The Identity presented as operating the asset presents itself as government or government body</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.007.md">T2043.007</a></td>
+<td>NGO Role</td>
+<td>The Identity presented as operating the asset presents itself as non-govermental organisation, non-profit, or other volunteer organisation</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.008.md">T2043.008</a></td>
+<td>Social Cause Role</td>
+<td>The Identity presented as operating the asset presents itself as a collective campaigning for a social cause</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2043.009.md">T2043.009</a></td>
+<td>Adult Entertainment Outlet Role</td>
+<td>The Identity presented as operating the asset presents itself as a provider of adult entertainment (e.g. Pornography)</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2044.md">T2044</a></td>
+<td>Asset Role Validity</td>
+<td>This Category contains ways to document whether the Identity has legitimate claim to the Role they present themselves as having</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2044.001.md">T2044.001</a></td>
+<td>Identity Has Legitimate Claim to Role</td>
+<td>The Identity presented as operating the asset has legitimate claim to the Role they present themselves as having</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2044.002.md">T2044.002</a></td>
+<td>Identity Does Not Have Legitimate Claim to Role</td>
+<td>The Identity presented as operating the asset does not have legitimate claim to the Role they present themselves as having</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2045.md">T2045</a></td>
+<td>Use of Automation</td>
+<td>This Category contains ways to document the use of automation and its disclosure in an asset</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2045.001.md">T2045.001</a></td>
+<td>Asset Uses and Discloses Automation</td>
+<td>The Asset uses automation to operate online, and discloses the use of automation</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2045.002.md">T2045.002</a></td>
+<td>Asset Uses Automation without Disclosure</td>
+<td>The Asset uses automation to operate online, and does not disclose the use of automation</td>
+<td>TA23</td>
+</tr>
+<tr>
+<td><a href="techniques/T2201.md">T2201</a></td>
+<td>Publish Online Publication</td>
+<td>This Cateogry contains Actions related to publishing a Publication</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2201.001.md">T2201.001</a></td>
+<td>Publish</td>
+<td>Publish a post to an online community or group</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2201.002.md">T2201.002</a></td>
+<td>Send</td>
+<td>Send a message or email to a closed messaging group or service</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2201.003.md">T2201.003</a></td>
+<td>Conduct</td>
+<td>Conduct a live stream or call to a public or private audience</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2201.004.md">T2201.004</a></td>
+<td>Upload</td>
+<td>Upload a file to a platform</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2201.005.md">T2201.005</a></td>
+<td>Comment</td>
+<td>Comment on another existing Publication</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2201.006.md">T2201.006</a></td>
+<td>Submit</td>
+<td>Submit a report or search to a platform</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2202.md">T2202</a></td>
+<td>Amplify Online Publication</td>
+<td>This Cateogry contains Actions related to amplifying a Publication</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2202.001.md">T2202.001</a></td>
+<td>Repost</td>
+<td>Use a platform’s “Repost” feature</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2202.002.md">T2202.002</a></td>
+<td>Emote React</td>
+<td>Use a platform’s “Emote React” feature</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2202.003.md">T2202.003</a></td>
+<td>Forward</td>
+<td>Use a platform’s “Forward” feature</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2203.md">T2203</a></td>
+<td>Interact with Community or User</td>
+<td>This Category contains Actions taken on Users or Communities on Platforms</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2203.001.md">T2203.001</a></td>
+<td>Request Connection with Asset</td>
+<td>Use a platform’s feature to request a connection with another asset (sometimes called “Friending” or “Adding)</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2203.002.md">T2203.002</a></td>
+<td>Connect with Asset</td>
+<td>Use a platform’s feature to make a connection with another account (sometimes called Accepting, Approving or Confirming a Friend Request)</td>
+<td>TA41</td>
+</tr>
+<tr>
+<td><a href="techniques/T2203.003.md">T2203.003</a></td>
 <td>Follow Asset</td>
-<td></td>
-<td>TA25</td>
+<td>Use a platform’s feature to follow another asset</td>
+<td>TA41</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.004.md">T0161.004</a></td>
+<td><a href="techniques/T2203.004.md">T2203.004</a></td>
 <td>Join Community</td>
-<td></td>
-<td>TA25</td>
+<td>Use a platform’s feature to join a community on the platform</td>
+<td>TA41</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.005.md">T0161.005</a></td>
-<td>Add Account to Community</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2203.005.md">T2203.005</a></td>
+<td>Add Asset to Community</td>
+<td>Use a platform’s feature to add another asset to a community on the platform</td>
+<td>TA41</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.006.md">T0161.006</a></td>
-<td>Report Account</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2203.006.md">T2203.006</a></td>
+<td>Block Asset</td>
+<td>Use a platform’s feature to “Block” another asset</td>
+<td>TA41</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.007.md">T0161.007</a></td>
-<td>Report Content</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2204.md">T2204</a></td>
+<td>Acquire Content</td>
+<td>This Category contains methods of acquiring Content</td>
+<td>TA41</td>
 </tr>
 <tr>
-<td><a href="techniques/T0161.008.md">T0161.008</a></td>
-<td>Block Account</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2204.001.md">T2204.001</a></td>
+<td>Produce</td>
+<td>Produce text, image, video, or audio content</td>
+<td>TA41</td>
 </tr>
 <tr>
-<td><a href="techniques/T0162.md">T0162</a></td>
-<td>Interact with Platform Features</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2221.md">T2221</a></td>
+<td>Platform Curation Actions</td>
+<td>This Category contains actions taken by a Platform to curate their Users' experience</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0162.001.md">T0162.001</a></td>
-<td>Make Payment</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2221.001.md">T2221.001</a></td>
+<td>Host</td>
+<td>Host publications, content, users, or communities on a platform</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0162.002.md">T0162.002</a></td>
-<td>Initiate Subscription Payment</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2221.002.md">T2221.002</a></td>
+<td>Promote</td>
+<td>A platform feature promotes a publication or piece of content</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0162.003.md">T0162.003</a></td>
-<td>Submit Search</td>
-<td></td>
-<td>TA25</td>
+<td><a href="techniques/T2221.003.md">T2221.003</a></td>
+<td>Deliver</td>
+<td>A platform delivers search results or an advertisement</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0163.md">T0163</a></td>
-<td>Action Taken by Platform</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2222.md">T2222</a></td>
+<td>Platform Prompting Action</td>
+<td>This Category contains actions taken by a Platform to prompt a User to take an action</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0163.001.md">T0163.001</a></td>
-<td>Platform Promotes Content to User</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2222.001.md">T2222.001</a></td>
+<td>Suggest Action</td>
+<td>A platform feature suggests an action to its user</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0163.002.md">T0163.002</a></td>
-<td>Platform Promotes Content to Trending Section</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2222.002.md">T2222.002</a></td>
+<td>Enable Action</td>
+<td>A platform feature enables its user to take an action</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0163.003.md">T0163.003</a></td>
-<td>Platform Suppresses Content Visibility</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2223.md">T2223</a></td>
+<td>Platform Takes Moderation Action</td>
+<td>This Category contains moderation actions available to Platforms</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0163.004.md">T0163.004</a></td>
-<td>Platform Blocks Search Results</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2223.001.md">T2223.001</a></td>
+<td>Platform Suppresses Algorithmic Reach</td>
+<td>A platform suppresses the algorithmic reach of a publication, user, or community on its platform</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0163.005.md">T0163.005</a></td>
-<td>Host Content</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2223.002.md">T2223.002</a></td>
+<td>Platform Suppresses Search Results</td>
+<td>A platform suppresses search results from being delivered to a user of its platform</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0163.006.md">T0163.006</a></td>
-<td>Platform Provides Search Results</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2223.003.md">T2223.003</a></td>
+<td>Platform Removes Publication from Platform</td>
+<td>A platform removes a publication from its platform</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0164.md">T0164</a></td>
-<td>Action Suggested by Platform</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2223.004.md">T2223.004</a></td>
+<td>Platform Applies Disclaimer</td>
+<td>A platform applies a disclaimer to a publication, user, or community on its platform</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0164.000.md">T0164.000</a></td>
-<td>Action Suggested by Platform</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2223.005.md">T2223.005</a></td>
+<td>Platform Suspends Asset</td>
+<td>A platform suspends an asset from its platform</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0164.001.md">T0164.001</a></td>
-<td>Platform Suggests Joining Community</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2224.md">T2224</a></td>
+<td>Platform Failure to Take Action</td>
+<td>This Category contains ways to document a Platform's failure to take action on harmful or infringing content</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0164.002.md">T0164.002</a></td>
-<td>Platform Suggests Connecting with Account</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2224.001.md">T2224.001</a></td>
+<td>Platform Fails to Address Asset with Repeat Infringements</td>
+<td>A platform takes no moderation action against an asset with repeat infringements</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0164.003.md">T0164.003</a></td>
-<td>Platform Suggests Following Asset</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2224.002.md">T2224.002</a></td>
+<td>Platform Fails to Reverse Erroneous Moderation Action</td>
+<td>A platform fails to reverse moderation action it took erroneously (e.g. unjustified or accidental moderation)</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0164.004.md">T0164.004</a></td>
-<td>Platform Suggests Search to User</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2224.003.md">T2224.003</a></td>
+<td>Platform Fails to Act on Report in Timely Manner</td>
+<td>A report submitted to a platform is not acted upon in a reasonable amount of time</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0165.md">T0165</a></td>
-<td>Platform Behaviour over Time</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2224.004.md">T2224.004</a></td>
+<td>Platform Denies Infringement is Infringing</td>
+<td>A platform denies that an infringing user, community, publication, or piece of content is infringing</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0165.001.md">T0165.001</a></td>
-<td>Asset Remains Active after Reporting Breach of Platform Policy to Platform</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2225.md">T2225</a></td>
+<td>Issue with Platform Moderation Action</td>
+<td>This Category contains ways to describe issues with moderation actions taken by a Platform</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0165.002.md">T0165.002</a></td>
-<td>Content Remains Active after Reporting Breach of Platform Policy to Platform</td>
-<td></td>
-<td>TA27</td>
+<td><a href="techniques/T2225.001.md">T2225.001</a></td>
+<td>Platform Fails to Provide Clear Reason for Moderation Decision</td>
+<td>A platform took moderation action without providing a clear reason</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0166.md">T0166</a></td>
-<td>AI-Generated Content</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T2225.002.md">T2225.002</a></td>
+<td>Platform Fails to Adequately Communicate Moderation Decision</td>
+<td>A platform took moderation action without adequately communicating their decision</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0166.000.md">T0166.000</a></td>
-<td>AI-Generated Content</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T2225.003.md">T2225.003</a></td>
+<td>Platform Fails to Disclose Use of Automation in Moderation Decision</td>
+<td>A platform took automated moderation action without disclosing the use of automation</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0166.001.md">T0166.001</a></td>
-<td>AI-Edited Content</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T2225.004.md">T2225.004</a></td>
+<td>Platform Fails to Provide Method to Challenge Moderation Decision</td>
+<td>A platform took moderation and did not provide a method to challenge the moderation action</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0166.002.md">T0166.002</a></td>
-<td>Prompt for AI-Generation</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T2225.005.md">T2225.005</a></td>
+<td>Platform Fails to Meet Legal Standards for Method to Challenge Moderation Decision</td>
+<td>The method a platform provides to challenge a moderation decision fails to meet legal standards</td>
+<td>TA42</td>
 </tr>
 <tr>
-<td><a href="techniques/T0166.003.md">T0166.003</a></td>
-<td>Source Content for AI-Generation</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T3001.md">T3001</a></td>
+<td>Offline Harm</td>
+<td>This Category contains types of offline harm</td>
+<td>TA43</td>
 </tr>
 <tr>
-<td><a href="techniques/T0166.004.md">T0166.004</a></td>
-<td>Reference Content for AI-Generation</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T3001.001.md">T3001.001</a></td>
+<td>Physical Violence</td>
+<td>An individual or group has conducted physical violence on another individual or group</td>
+<td>TA43</td>
 </tr>
 <tr>
-<td><a href="techniques/T0166.005.md">T0166.005</a></td>
-<td>Deepfake Impersonation</td>
-<td>This sub-technique can be used to assert that a piece of content is an AI-Generated deepfake impersonation.<br><br>A deepfake refers to AI-generated content that artificially inserts the likeness of a real person into a new or altered media scene. These synthetic images, videos, or audio clips use machine learning models to manipulate or replace the original content, making it appear as though the target is participating in actions or situations they never actually did.</td>
-<td>TA28</td>
+<td><a href="techniques/T3001.002.md">T3001.002</a></td>
+<td>Physical Sexual Violence</td>
+<td>An individual or group has conducted physical sexual violence on another individual or group</td>
+<td>TA43</td>
 </tr>
 <tr>
-<td><a href="techniques/T0166.006.md">T0166.006</a></td>
-<td>AI-Nudified Imagery</td>
-<td>This sub-technique can be used to document an analyst’s assessment that AI was employed to generate AI-nudified imagery. AI-nudified imagery refers to the use of artificial intelligence to modify an existing image or video by digitally altering the subject to appear unclothed, typically through the application of machine learning algorithms that remove or replace clothing with simulated content.<br><br>Platforms designed to nudify imagery require users to upload an image of a person fully clothed as the source content. The AI then applies algorithms to remove the clothing, effectively generating a synthetic image or video of the subject in a nude state.</td>
-<td>TA28</td>
+<td><a href="techniques/T4001.md">T4001</a></td>
+<td>Publication Type</td>
+<td>This Category contains different things which can be published online, like posts, streams, messages, and more</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0167.md">T0167</a></td>
-<td>Private Materials</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4001.001.md">T4001.001</a></td>
+<td>Post</td>
+<td>A Post is static content which is typically published to a broad community of users who can view its contents</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0167.000.md">T0167.000</a></td>
-<td>Private Materials</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4001.002.md">T4001.002</a></td>
+<td>Message</td>
+<td>A Message is static content which is typically sent to a closed community in a group chat or server, or an individual over direct messaging</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0167.001.md">T0167.001</a></td>
-<td>Personally Identifiable Information</td>
-<td>This sub-technique can be used to document an analyst’s assessment that content contains personally identifiable information (or “PII”). PII is  any data that can identify an individual or institution, such as their name, social accounts, physical address, contact details, medical data, information about their employer, or their friends or family. The non-consensual publication of another person’s PII is commonly referred to as a “Dox”, or “Doxxing”.<br><br>Actors have been observed uncovering and publishing targets’ PII, leading to threats of physical or sexual violence against the target, and harassment against them or people they know.<br><br>To make this assessment, analysts will need to identify types of sensitive information about a person or institution included in a piece of content.</td>
-<td>TA28</td>
+<td><a href="techniques/T4001.003.md">T4001.003</a></td>
+<td>Email</td>
+<td>An Email is static content which is typically sent to the private inbox of one or more recipients</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0167.002.md">T0167.002</a></td>
-<td>Private Intimate Imagery</td>
-<td>This sub-technique can be used to assert that content depicts intimate imagery consensually produced for a private audience. Private Intimate Imagery depicts an individual in a state of undress, engaging in sexual activity, or in other intimate situations where there is a reasonable expectation of privacy. This imagery is typically created or shared with the subject’s consent for private use.</td>
-<td>TA28</td>
+<td><a href="techniques/T4001.004.md">T4001.004</a></td>
+<td>Call</td>
+<td>A Call is a live, private communication between two or more participants in video or audio format</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0167.003.md">T0167.003</a></td>
-<td>Internal Communications</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4001.005.md">T4001.005</a></td>
+<td>Stream</td>
+<td>A Stream is a live broadcast typically conducted to a broad community of users, who can comment in reaction to events</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0167.004.md">T0167.004</a></td>
-<td>Internal Documents</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4001.006.md">T4001.006</a></td>
+<td>File</td>
+<td>A File is a container for digital information on a device</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0167.005.md">T0167.005</a></td>
-<td>Internal Contacts List</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4001.007.md">T4001.007</a></td>
+<td>Report of Infraction</td>
+<td>A Report of Infraction is submitted by using a platform’s reporting feature to flag Material or an Asset which goes against the platform’s stated policy, or local laws</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0167.006.md">T0167.006</a></td>
-<td>Asset Login Credentials</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4001.008.md">T4001.008</a></td>
+<td>Search</td>
+<td>A Search is submitted by using a platform’s search feature to return Material or an Asset on the platform</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0168.md">T0168</a></td>
-<td>Edited Content</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4001.009.md">T4001.009</a></td>
+<td>Search Results</td>
+<td>Search Resuts are a list of items delivered by a Platform when after a user submits a search to them</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0168.000.md">T0168.000</a></td>
-<td>Edited Content</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4001.010.md">T4001.010</a></td>
+<td>Advertisement</td>
+<td>An Advertisement is delivered by a Platform to its users</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0168.001.md">T0168.001</a></td>
-<td>Clipped Content</td>
-<td></td>
-<td>TA28</td>
+<td><a href="techniques/T4002.md">T4002</a></td>
+<td>Content Format</td>
+<td>This Category contains different ways content can be formatted; Text, Audio, Video, or Image</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0168.002.md">T0168.002</a></td>
-<td>Cropped Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0168.003.md">T0168.003</a></td>
-<td>Element Edited Out of Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0168.004.md">T0168.004</a></td>
-<td>Element Edited In to Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0168.005.md">T0168.005</a></td>
-<td>Third Party Introduced to Content</td>
-<td>This sub-technique can be used to document cases where a third party individual or institution has been introduced to content which they weren’t originally part of.<br><br>To make this assessment, analysts will need to find the original unedited content, and identify individuals or institutions which appear in content published by the actor that do not appear in the original.<br><br>Actors have been observed introducing individuals to images to associate them with target narratives.</td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0168.006.md">T0168.006</a></td>
-<td>Source Removed from Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0168.007.md">T0168.007</a></td>
-<td>Context Removed from Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0168.008.md">T0168.008</a></td>
-<td>Playback Speed Altered</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0169.md">T0169</a></td>
-<td>Produce Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0169.000.md">T0169.000</a></td>
-<td>Produce Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0169.001.md">T0169.001</a></td>
-<td>Produce Content in the Style of a Third Party</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0169.002.md">T0169.002</a></td>
-<td>Produce Localised Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0170.md">T0170</a></td>
-<td>Content Origin</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0170.001.md">T0170.001</a></td>
-<td>Entertainment Media Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0170.002.md">T0170.002</a></td>
-<td>Video Game Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0170.003.md">T0170.003</a></td>
-<td>Historic Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0170.004.md">T0170.004</a></td>
-<td>Stock Media Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0170.005.md">T0170.005</a></td>
-<td>Content Produced by Third Party</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0170.006.md">T0170.006</a></td>
-<td>First Appearance of Content</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0170.007.md">T0170.007</a></td>
-<td>Content Previously Published Online</td>
-<td></td>
-<td>TA28</td>
-</tr>
-<tr>
-<td><a href="techniques/T0171.md">T0171</a></td>
+<td><a href="techniques/T4002.001.md">T4002.001</a></td>
 <td>Text Content</td>
-<td></td>
-<td>TA29</td>
+<td>Content which takes the form of text</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0171.000.md">T0171.000</a></td>
-<td>Text Content</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0171.001.md">T0171.001</a></td>
-<td>Document</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0171.002.md">T0171.002</a></td>
-<td>Book</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0171.003.md">T0171.003</a></td>
+<td><a href="techniques/T4002.002.md">T4002.002</a></td>
 <td>Templated Text</td>
-<td></td>
-<td>TA29</td>
+<td>Text which has been produced following a template</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0171.004.md">T0171.004</a></td>
-<td>Machine Translated Text</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0172.md">T0172</a></td>
+<td><a href="techniques/T4002.003.md">T4002.003</a></td>
 <td>Image Content</td>
-<td></td>
-<td>TA29</td>
+<td>Content which takes the form of an image</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0172.000.md">T0172.000</a></td>
-<td>Image Content</td>
-<td></td>
-<td>TA29</td>
+<td><a href="techniques/T4002.004.md">T4002.004</a></td>
+<td>Evidence Collage</td>
+<td>An image which collates different material into a collage of evidence to support a narrative or claim</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0172.001.md">T0172.001</a></td>
-<td>Evidence Colllage</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0172.002.md">T0172.002</a></td>
-<td>Screenshot</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0172.003.md">T0172.003</a></td>
-<td>Video Still</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0172.004.md">T0172.004</a></td>
+<td><a href="techniques/T4002.005.md">T4002.005</a></td>
 <td>Text Presented in Image Format</td>
-<td></td>
-<td>TA29</td>
+<td>An image file which has been produced predominantly to house text content e.g. to avoid text-based moderation</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0173.md">T0173</a></td>
+<td><a href="techniques/T4002.006.md">T4002.006</a></td>
 <td>Video Content</td>
-<td></td>
-<td>TA29</td>
+<td>Content which takes the form of a video</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0173.000.md">T0173.000</a></td>
-<td>Video Content</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0173.001.md">T0173.001</a></td>
+<td><a href="techniques/T4002.007.md">T4002.007</a></td>
 <td>Vertical Video</td>
-<td></td>
-<td>TA29</td>
+<td>A video produced in the vertical format, a form factor optimised for mobile viewing</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0173.002.md">T0173.002</a></td>
-<td>Screen Recording</td>
-<td></td>
-<td>TA29</td>
+<td><a href="techniques/T4002.008.md">T4002.008</a></td>
+<td>Horizontal Video</td>
+<td>A video produced in the horizontal format, a form factor optimised for desktop, laptop, or televisual viewing</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0173.003.md">T0173.003</a></td>
-<td>Audio Presented in Video Format</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0173.004.md">T0173.004</a></td>
-<td>Image Presented in Video Format</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0173.005.md">T0173.005</a></td>
+<td><a href="techniques/T4002.009.md">T4002.009</a></td>
 <td>Subtitled Speech</td>
-<td></td>
-<td>TA29</td>
+<td>Subtitled speech on video content</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0174.md">T0174</a></td>
+<td><a href="techniques/T4002.010.md">T4002.010</a></td>
 <td>Audio Content</td>
-<td></td>
-<td>TA29</td>
+<td>Content which takes the form of audio</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0174.000.md">T0174.000</a></td>
-<td>Audio Content</td>
-<td></td>
-<td>TA29</td>
+<td><a href="techniques/T4002.011.md">T4002.011</a></td>
+<td>Music</td>
+<td>Audio in the form of music</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0174.001.md">T0174.001</a></td>
-<td>Secret Audio Recording</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0174.002.md">T0174.002</a></td>
-<td>Podcast Episode</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0175.md">T0175</a></td>
-<td>Content Anomalies</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0175.001.md">T0175.001</a></td>
-<td>Fabricated Content</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0175.002.md">T0175.002</a></td>
-<td>Non-Native Language Error</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0175.003.md">T0175.003</a></td>
-<td>Fabricated Address</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0175.004.md">T0175.004</a></td>
-<td>False Address</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0175.005.md">T0175.005</a></td>
-<td>False Translation</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0175.006.md">T0175.006</a></td>
-<td>Content Goes Against Platform Policy</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0175.007.md">T0175.007</a></td>
-<td>Coded Terminology</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0176.md">T0176</a></td>
+<td><a href="techniques/T4003.md">T4003</a></td>
 <td>Content Style</td>
-<td></td>
-<td>TA29</td>
+<td>This Category contains different ways a publication or a piece of content can be styled</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0176.001.md">T0176.001</a></td>
+<td><a href="techniques/T4003.001.md">T4003.001</a></td>
 <td>News Report</td>
-<td></td>
-<td>TA29</td>
+<td>Content has been styled as a news report</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0176.002.md">T0176.002</a></td>
-<td>Meme</td>
-<td></td>
-<td>TA29</td>
+<td><a href="techniques/T4003.002.md">T4003.002</a></td>
+<td>Opinion Piece</td>
+<td>Content has been styled as an opinion piece</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0176.003.md">T0176.003</a></td>
-<td>Opinion Article</td>
-<td></td>
-<td>TA29</td>
+<td><a href="techniques/T4003.003.md">T4003.003</a></td>
+<td>Academic Research Report</td>
+<td>Content has been styled as an academic research report</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0176.004.md">T0176.004</a></td>
-<td>Research Article</td>
-<td></td>
-<td>TA29</td>
-</tr>
-<tr>
-<td><a href="techniques/T0176.005.md">T0176.005</a></td>
+<td><a href="techniques/T4003.004.md">T4003.004</a></td>
 <td>Fact Check</td>
-<td></td>
-<td>TA29</td>
+<td>Content has been styled as a fact check</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0176.006.md">T0176.006</a></td>
-<td>Anonymous Content</td>
-<td>This sub-technique can be used to document an analyst’s assessment that content was intentionally made in such a way to hide the identity of the person or group who produced it.<br><br>Actors producing content with the intent to abuse or threaten a target often do so while taking steps to reduce the ability of investigators to tie their real identity to the content they produced.</td>
-<td>TA29</td>
+<td><a href="techniques/T4003.005.md">T4003.005</a></td>
+<td>Impersonated Content</td>
+<td>Content has been produced in such a way that it impersonates publications or content produced by another individual or institution</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0176.007.md">T0176.007</a></td>
-<td>Sexually Explicit Content</td>
-<td>This sub-technique can be used to document an analyst’s assessment that a piece of content is sexually explicit.</td>
-<td>TA29</td>
+<td><a href="techniques/T4003.006.md">T4003.006</a></td>
+<td>Document</td>
+<td>Content has been styled in the format of a document</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0178.md">T0178</a></td>
-<td>Content Presentation</td>
-<td></td>
-<td>TA30</td>
+<td><a href="techniques/T4003.007.md">T4003.007</a></td>
+<td>Book</td>
+<td>Content has been styled in the form of a book</td>
+<td>TA61</td>
 </tr>
 <tr>
-<td><a href="techniques/T0178.001.md">T0178.001</a></td>
+<td><a href="techniques/T4003.008.md">T4003.008</a></td>
+<td>Podcast Episode</td>
+<td>Content has been produced in the format of a podcast episode</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4004.md">T4004</a></td>
+<td>Content Details</td>
+<td>This Category contains different ways a piece of content can be styled</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4004.001.md">T4004.001</a></td>
+<td>Content Constitutes Leak of Private Material</td>
+<td>Private materials have been non-consensually published to an audience not originally intended to have access to said materials</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4004.002.md">T4004.002</a></td>
+<td>Secret Recording</td>
+<td>Audio, Video, or Image content produced without the knowledge of those recorded</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4004.003.md">T4004.003</a></td>
+<td>Screen Capture</td>
+<td>An image or video produced by taking a screen capture of what was visible on a user’s device</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4004.004.md">T4004.004</a></td>
+<td>Anonymised Content</td>
+<td>Content intentionally produced to anonymise individuals depicted, or to hide the identity of who produced it</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4004.005.md">T4004.005</a></td>
+<td>Meme</td>
+<td>Content is styled in the form of an internet meme; content which is humorous in nature, often referentially with slight variants made by different users</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4004.006.md">T4004.006</a></td>
+<td>Stock Content</td>
+<td>Audio, Video, or Image content sourced from a stock media provider, or placeholder text content</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4005.md">T4005</a></td>
+<td>Language Details</td>
+<td>This Category contains details about use of language which aren’t indicative of misleading or malicious behaviour on their own, but may be useful information for making assessments about an actor</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4005.001.md">T4005.001</a></td>
+<td>Translated Content</td>
+<td>Content which has been translated from one language to another</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4005.002.md">T4005.002</a></td>
+<td>Non-Native Language Error</td>
+<td>A non-native language error is a mistake or oddity in use of language atypical of a native speaker</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4005.003.md">T4005.003</a></td>
+<td>Coded Terminology</td>
+<td>Content makes use of coded terminology, e.g. letter replacements in words, 'algospeak', euphemisms, or dog whistles</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4005.004.md">T4005.004</a></td>
+<td>Machine Translated Content</td>
+<td>Use of automation, online translation tools, AI, or other non-manual translation methods to translate material from one language to another</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.md">T4006</a></td>
+<td>Demonstrably False Content</td>
+<td>This Category contains types of content which can be shown to have been artificially created, or content that contains information which is demonstrably incorrect</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.001.md">T4006.001</a></td>
+<td>Statement Incorrectly Presented as Made by Individual or Institution</td>
+<td>A statement has incorrectly been presented as having been made by an individual or institution</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.002.md">T4006.002</a></td>
+<td>Falsified Depiction of Content Amplification</td>
+<td>Image of Video content which has been created to give the false impression that another piece of content is being amplified online</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.003.md">T4006.003</a></td>
+<td>Falsified Graffiti or Signage</td>
+<td>Image or Video content which has been edited to impose graffiti or other signage</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.004.md">T4006.004</a></td>
+<td>Imagery Depicting Individual Edited to Introduce Sexual Material</td>
+<td>Sexual content has been edited to introduce the target individual’s visage</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.005.md">T4006.005</a></td>
+<td>Claim to Nonexistent Physical Address</td>
+<td>An ownership or association claim is made with regards to a physical address, but the address doesn't exist</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.006.md">T4006.006</a></td>
+<td>Incorrect Claim to Real Physical Address</td>
+<td>An ownership or association claim is made with regards to a physical address, but the address is not actually owned or associated with the claimant</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.007.md">T4006.007</a></td>
+<td>Mislabeled Publication</td>
+<td>A Publication has not been correctly labeled in line with platform policy (e.g. an Advertisement missing a political label)</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4006.008.md">T4006.008</a></td>
+<td>Action Incorrectly Presented as Taken by Individual or Institution</td>
+<td>A claim incorrectly attributes an action as having been taken by an individual or institution</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4007.md">T4007</a></td>
+<td>Content Relationship to Platform Policy</td>
+<td>This Category enables documentation of whether content is aligned with a platform's stated policy</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4007.001.md">T4007.001</a></td>
+<td>Content Goes Against Platform Policy</td>
+<td>Published content goes against the stated policy of the platform it was published to</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4007.002.md">T4007.002</a></td>
+<td>Content Within Platform Policy</td>
+<td>Published content is within the stated policy of the platform it was published to</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4008.md">T4008</a></td>
+<td>Publication Use of Platform Features</td>
+<td>This Category contains different features platforms offer which an be applied to a publication</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4008.001.md">T4008.001</a></td>
+<td>Tag Geolocation</td>
+<td>Use of a Platform's feature to tag a geolocation</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4008.002.md">T4008.002</a></td>
+<td>Tag Hashtag</td>
+<td>Use of a Platform's feature to tag a hashtag</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4008.003.md">T4008.003</a></td>
+<td>Tag Asset</td>
+<td>Use of a Platform's feature to tag an asset</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4009.md">T4009</a></td>
+<td>Publication Access Settings</td>
+<td>This Category contains different ways that access to a publication can be configured</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4009.001.md">T4009.001</a></td>
+<td>Number of Times Publication can be Viewed Limited per User</td>
+<td>A post or message uses a platform's feature to limit the number of times it is able to be viewed per user (e.g. Snapchat Snaps)</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4009.002.md">T4009.002</a></td>
+<td>Access to Publication Automatically Removed after Specified Time Expires</td>
+<td>A post, message or file uses a platform's feature to automatically remove the ability to view it after a time window has expired (e.g. Instagram Stories)</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4009.003.md">T4009.003</a></td>
+<td>Ability to View Publication Restricted to Specified Audience within Platform</td>
+<td>A post, stream, or file which would otherwise be accessible to a broad group of users (per the platform's default functionality) has been configured to be viewable only to a specified group by the publishing asset</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4009.004.md">T4009.004</a></td>
+<td>Ability to Comment on Publication Restricted to Specified Audience within Platform</td>
+<td>A post, stream, or file which would otherwise be accessible to a broad group of users (per the platform's default functionality) has been configured to be commentable to a specified group by the publishing asset</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4009.005.md">T4009.005</a></td>
+<td>Ability to Comment on Publication Disabled for All Users within Platform</td>
+<td>A post, stream, message, or file has had the platform's default comment functionality turned off for all platform users</td>
+<td>TA61</td>
+</tr>
+<tr>
+<td><a href="techniques/T4201.md">T4201</a></td>
+<td>AI-Generated Content</td>
+<td>Content was generated using AI</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4201.001.md">T4201.001</a></td>
+<td>Deepfake Impersonation</td>
+<td>AI was used to generate a deepfake impersonation of an individual</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4201.002.md">T4201.002</a></td>
+<td>Sexual Deepfake Impersonation</td>
+<td>AI was used to generate a deepfake impersonation of an individual which depicts them sexually</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4201.003.md">T4201.003</a></td>
+<td>AI-Nudified Imagery</td>
+<td>AI was used to produce an undressed (‘nudified’) version of existing media</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4202.md">T4202</a></td>
+<td>Private Materials</td>
+<td>This Category contains different types of content typically intended for a private audience</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4202.001.md">T4202.001</a></td>
+<td>Personally Identifiable Information</td>
+<td>Content contains personally identifiable information (or “PII”) about a person or institution, such as their name, social accounts, physical address, contact details, information about their employer, or their friends or family</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4202.002.md">T4202.002</a></td>
+<td>Private Intimate Imagery</td>
+<td>Content is private intimate imagery; imagery which depicts an individual in a state of undress, engaging in sexual activity, or in other intimate situations where there is a reasonable expectation of privacy</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4202.003.md">T4202.003</a></td>
+<td>Internal Communications</td>
+<td>Content is internal communications originally intended to be kept private by the communicating party</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4202.004.md">T4202.004</a></td>
+<td>Internal Document</td>
+<td>Content is an internal document originally intended to be kept private by the party who created it</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4202.005.md">T4202.005</a></td>
+<td>Internal Contacts List</td>
+<td>Content is an internal list of people or institutions, and their contact details</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4202.006.md">T4202.006</a></td>
+<td>Asset Login Credentials</td>
+<td>Content is login credentials for an online asset (e.g. an account)</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4203.md">T4203</a></td>
+<td>Edited Content</td>
+<td>Content has been edited without disclosure</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4203.001.md">T4203.001</a></td>
+<td>Clipped Content</td>
+<td>Content was clipped from a longer piece of Audio or Video Content without disclosure</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4203.002.md">T4203.002</a></td>
+<td>Cropped Content</td>
+<td>Image or Video Content has been edited to zoom in on part of the visuals without disclosure</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4203.003.md">T4203.003</a></td>
+<td>Playback Speed Altered</td>
+<td>Audio or Video Content has had its playback speed edited without disclosure</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4203.004.md">T4203.004</a></td>
+<td>Source Removed from Content</td>
+<td>Content was edited in such a way that its original source has been removed or obscured without disclosure</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4203.005.md">T4203.005</a></td>
+<td>AI-Edited Content</td>
+<td>AI has been used to edit existing content</td>
+<td>TA62</td>
+</tr>
+<tr>
+<td><a href="techniques/T4401.md">T4401</a></td>
+<td>Content Verifiability</td>
+<td>This Category contains items which can be used to document the degree to which information can be independently verified or validated</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4401.001.md">T4401.001</a></td>
+<td>Information is Verified</td>
+<td>Information presented by the actor has been independently confirmed by the analyst through credible fact-checking</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4401.002.md">T4401.002</a></td>
+<td>Information is False</td>
+<td>Information presented by the actor has been confirmed to be false by the analyst through credible fact-checking</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4401.003.md">T4401.003</a></td>
+<td>Information is Unverifiable</td>
+<td>Information presented by the actor cannot be confirmed or refuted by the analyst due to a lack of accessible, credible evidence</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4401.004.md">T4401.004</a></td>
+<td>Information is Misleading</td>
+<td>Information presented by the actor contains some accurate or verifiable information, but is presented in a misleading way</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4401.005.md">T4401.005</a></td>
+<td>Content Produced as Satire</td>
+<td>Content was created for humor or commentary, not to convey factual information</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4401.006.md">T4401.006</a></td>
+<td>Content Previously Fact Checked</td>
+<td>Content has been identified which was previously addressed by Fact Checkers</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4401.007.md">T4401.007</a></td>
+<td>Claim Previously Fact Checked</td>
+<td>A claim has been identified which was previously addressed by Fact Checkers</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.md">T4402</a></td>
+<td>Reframe Context</td>
+<td>Information presented outside of its original context in such a way that reframes its meaning or implications</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.001.md">T4402.001</a></td>
+<td>Incorrect Subtitled Speech Reframes Context</td>
+<td>Incorrect translation of subtitled speech giving a false impression of what was being said</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.002.md">T4402.002</a></td>
+<td>Edits Made to News Report which Reframe Context</td>
+<td>A report published by a legitimate news outlet has been edited to change what was reported</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.003.md">T4402.003</a></td>
+<td>Historic Content Incorrectly Presented as Current</td>
+<td>Content depicting previously occurring events presented as depicting a recent or ongoing event</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.004.md">T4402.004</a></td>
+<td>Content Incorrectly Presented as Depicting Another Location</td>
+<td>Content depicting one location presented as if it depicts a different location</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.005.md">T4402.005</a></td>
+<td>Video Game Content Incorrectly Presented as Depicting Reality</td>
+<td>Footage from video games presented as authentic, real-world material</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.006.md">T4402.006</a></td>
+<td>AI-Generated Content Incorrectly Presented as Depicting Reality</td>
+<td>Images, videos, or audio generated using AI presented as authentic, real-world material</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.007.md">T4402.007</a></td>
+<td>Context Reframed by Edits to Media</td>
+<td>Altered or manipulated content is presented as unedited and authentic</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.008.md">T4402.008</a></td>
+<td>Statement Reframed by Removal from Context</td>
+<td>A statement made by an individual or institution has been taken out of context, which reframes its meaning or interpretation</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.009.md">T4402.009</a></td>
+<td>Entertainment Media Content Incorrectly Presented as Depicting Reality</td>
+<td>Clips or stills from staged movies, series, or other staged performances are shared as authentic, non-staged depiction of real-world events</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4402.010.md">T4402.010</a></td>
+<td>Content Originally Produced as Satire Presented as Not Satire</td>
+<td>Genuine satire is shared as though it were factual reporting</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4403.md">T4403</a></td>
+<td>Issues with Cited Academic Research</td>
+<td>Narrative provides a citation to academic research which has issues impacting its legitimacy</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4403.001.md">T4403.001</a></td>
+<td>Narrative Cites Nonexistent Academic Research</td>
+<td>Narrative provides a citation to academic research which does not exist to support a claim</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4403.002.md">T4403.002</a></td>
+<td>Narrative Misrepresents Findings of Cited Academic Research</td>
+<td>Narrative misrepresents the findings of cited academic research to support a claim</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4403.003.md">T4403.003</a></td>
+<td>Narrative Cites Retracted Academic Research</td>
+<td>Narrative supports a claim by citing academic research which has been retracted</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4403.004.md">T4403.004</a></td>
+<td>Narrative Cites Academic Research not Peer Reviewed</td>
+<td>Narrative does not disclose that it cites academic research which has not been peer reviewed to support a claim</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4404.md">T4404</a></td>
+<td>Issues with Presented Statistical Evidence</td>
+<td>A claim is presented alongside statistics which have validity issues</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4404.001.md">T4404.001</a></td>
+<td>Narrative Presents Fabricated Statistics as Genuine Data</td>
+<td>A claim is presented alongside statistics which were not generated using real data points, but presented as legitimate statistics grounded in research</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4404.002.md">T4404.002</a></td>
+<td>Narrative Uses Selective Statistics to Support Claim</td>
+<td>Content presents a selective subset of data which produces beneficial statistics to support a claim</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4404.003.md">T4404.003</a></td>
+<td>Narrative Uses Misinterpreted Statistics to Support Claim</td>
+<td>Narrative uses real statistics in support of a claim, but presents an incorrect interpretation of their meaning</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4404.004.md">T4404.004</a></td>
+<td>Narrative Uses Misleading Data Visualisation</td>
+<td>Narrative presents a data visualisation (such as a bar, line, or pie chart) which misrepresents data in support of a claim</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4405.md">T4405</a></td>
+<td>Issue with Content's Headline</td>
+<td>There is an issue with how a piece of content has been titled</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4405.001.md">T4405.001</a></td>
+<td>Content Constitutes Clickbait</td>
+<td>Content with attention-grabbing, knowledge gap titles to attract attention and encourage a view</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.md">T4406</a></td>
+<td>Rhetorical Device</td>
+<td>This Category contains rhetorical devices or fallacies which can mislead</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.001.md">T4406.001</a></td>
+<td>Narrative Ties In to Current Events</td>
+<td>A narrative builds upon or otherwise ties in to events or narratives which are currently or recently within the public conversation or sphere of focus</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.002.md">T4406.002</a></td>
+<td>Narrative Uses False Cause</td>
+<td>False cause is the fallacy of assuming that one event causes another simply because the two occur together or in sequence</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.003.md">T4406.003</a></td>
+<td>Narrative Uses Whataboutism</td>
+<td>Whataboutism is a rhetorical device in which someone avoids addressing an argument by diverting attention to a different or unrelated issue</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.004.md">T4406.004</a></td>
+<td>Narrative Uses Cherry Picking</td>
+<td>Cherry-picking refers to selectively presenting evidence that supports a claim while ignoring evidence that challenges it</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.005.md">T4406.005</a></td>
+<td>Narrative Uses Anecdote</td>
+<td>Anecdotes are the use of evidence in the form of personal experience or an isolated case, possibly rumour or hearsay, most often to discredit statistics</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.006.md">T4406.006</a></td>
+<td>Narrative Uses Strawman</td>
+<td>Strawman is a rhetorical device in which someone misrepresents or exaggerates another person’s argument to make it easier to attack or refute</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.007.md">T4406.007</a></td>
+<td>Narrative Uses Leading Question</td>
+<td>Leading questions are a manipulative questioning technique where the phrasing or sequence of questions subtly steers the respondent toward a predetermined conclusion</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.008.md">T4406.008</a></td>
+<td>Narrative Uses Appeal to Emotion</td>
+<td>Appeal to emotion is a persuasive tactic that uses emotionally charged language to provoke strong feelings instead of presenting logical evidence</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4406.009.md">T4406.009</a></td>
+<td>Narrative Uses Exaggeration</td>
+<td>Exaggeration is the act of overstating or amplifying facts, qualities, or events to make them seem more significant or dramatic than they really are</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4407.md">T4407</a></td>
+<td>Content Sourcing Details</td>
+<td>This Category contains different sourcing claims for a piece of content</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4407.001.md">T4407.001</a></td>
 <td>Incorrect Content Source Presented</td>
-<td></td>
-<td>TA30</td>
+<td>An incorrect source is presented as having produced a piece of content</td>
+<td>TA63</td>
 </tr>
 <tr>
-<td><a href="techniques/T0178.002.md">T0178.002</a></td>
+<td><a href="techniques/T4407.002.md">T4407.002</a></td>
 <td>Content Presented as Produced by Third Party</td>
-<td></td>
-<td>TA30</td>
+<td>A piece of content is framed as having been produced by a third party</td>
+<td>TA63</td>
 </tr>
 <tr>
-<td><a href="techniques/T0178.003.md">T0178.003</a></td>
+<td><a href="techniques/T4407.003.md">T4407.003</a></td>
 <td>Content Presented as Produced by Actor</td>
-<td></td>
-<td>TA30</td>
+<td>A piece of content is framed as having been produced by the actor who published the content</td>
+<td>TA63</td>
 </tr>
 <tr>
-<td><a href="techniques/T0178.004.md">T0178.004</a></td>
-<td>Content Presented with Fabrication Disclaimer</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0178.005.md">T0178.005</a></td>
-<td>Content Presented with False Context</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0178.006.md">T0178.006</a></td>
-<td>Content Falsely Presented as Depicting Location</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0178.007.md">T0178.007</a></td>
-<td>Content Presented as Depicting Current Events</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0178.008.md">T0178.008</a></td>
-<td>Fabricated Content Presented as Real</td>
-<td></td>
-<td>TA30</td>
-</tr>
-<tr>
-<td><a href="techniques/T0178.009.md">T0178.009</a></td>
+<td><a href="techniques/T4407.004.md">T4407.004</a></td>
 <td>Source Embedded in Media</td>
-<td></td>
-<td>TA30</td>
+<td>Image or video content contains sourcing embedded within the it (e.g. a visual overlay providing the source)</td>
+<td>TA63</td>
 </tr>
 <tr>
-<td><a href="techniques/T0179.md">T0179</a></td>
+<td><a href="techniques/T4601.md">T4601</a></td>
+<td>Content Algorithmic Optimisation</td>
+<td>This Category contains different ways content can be optimised for performance in platforms' algorithms</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4601.001.md">T4601.001</a></td>
+<td>Platform Recommendation Algorithm Optimised Content</td>
+<td>Content has been intentionally produced in such a way that it optimises how a platform's content recommendation algorithm favours it in promoting it to platform users</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4601.002.md">T4601.002</a></td>
+<td>Search Engine Optimised Content</td>
+<td>Content has been intentionally produced in such a way that it optimises its ranking in search results provided by search engine platforms</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4602.md">T4602</a></td>
+<td>Content Contains Link</td>
+<td>This Category contains different ways content can link to other online content or assets</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4602.001.md">T4602.001</a></td>
+<td>Content Contains Disguised Link</td>
+<td>Content links out to another online asset or material using a link which has been disguised using a hyperlink to look it links to something else</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4602.002.md">T4602.002</a></td>
+<td>Content Contains Shortened Link</td>
+<td>Content links out to another online asset or material using a link which has been shortened by a link shortening service</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4602.003.md">T4602.003</a></td>
+<td>Content Contains QR Code Link</td>
+<td>Content links out to another online asset or material using a QR Code</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4602.004.md">T4602.004</a></td>
+<td>Content Contains Embedded Link</td>
+<td>Content uses a platform's native embedding feature to link to another asset or material, such as a quote post on X/Twitter, or a video end screen on YouTube</td>
+<td>TA63</td>
+</tr>
+<tr>
+<td><a href="techniques/T4603.md">T4603</a></td>
 <td>Content Action</td>
-<td></td>
-<td>TA31</td>
+<td>This Category contains different actions which can be taken by a piece of content</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0179.001.md">T0179.001</a></td>
+<td><a href="techniques/T4603.001.md">T4603.001</a></td>
 <td>Content Threatens Action</td>
-<td>This sub-technique can be used to document an analyst’s assessment that a piece of content contains a threat of harmful action against a target, typically in an attempt to coerce the target into taking action desired by the actor.<br><br>Actors have been observed threatening violence in an attempt to silence a target, removing their access to free speech.</td>
-<td>TA31</td>
+<td>Content includes the threat of taking a specific action</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0179.002.md">T0179.002</a></td>
+<td><a href="techniques/T4603.002.md">T4603.002</a></td>
 <td>Content Encourages Action</td>
-<td></td>
-<td>TA31</td>
+<td>Content includes the encourages another user to take a specific action</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0179.003.md">T0179.003</a></td>
-<td>Content Solicits Information</td>
-<td></td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0179.004.md">T0179.004</a></td>
+<td><a href="techniques/T4603.003.md">T4603.003</a></td>
 <td>Content Contains Instructions for Action</td>
-<td></td>
-<td>TA31</td>
+<td>Content includes instructions on how to take a specific action</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0179.005.md">T0179.005</a></td>
-<td>Leak of Private Material</td>
-<td>This sub-technique can be used to assert that private materials have been non-consensually published to an audience not originally intended to have access to said materials.<br><br>Analysts will need to assess whether content was intended to be accessible to the audience which now has access to it.</td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0179.006.md">T0179.006</a></td>
-<td>Fabricated Depiction of Content Amplification</td>
-<td></td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0179.007.md">T0179.007</a></td>
-<td>Content Directs Off Platform</td>
-<td></td>
-<td>TA31</td>
-</tr>
-<tr>
-<td><a href="techniques/T0179.008.md">T0179.008</a></td>
+<td><a href="techniques/T4603.004.md">T4603.004</a></td>
 <td>Content Solicits Action</td>
-<td></td>
-<td>TA31</td>
+<td>Content includes a request for another user to take a specific action</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.md">T0180</a></td>
+<td><a href="techniques/T4603.005.md">T4603.005</a></td>
+<td>Content Depicts Offline Harm</td>
+<td>Content depicts an offline harm</td>
+<td>TA64</td>
+</tr>
+<tr>
+<td><a href="techniques/T4604.md">T4604</a></td>
 <td>Harmful Content</td>
-<td></td>
-<td>TA31</td>
+<td>Content is harmful in nature</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.001.md">T0180.001</a></td>
-<td>Unsolicited Sexual Imagery</td>
-<td>Unsolicited Sexual Imagery (sometimes referred to as “cyberflashing”) is defined as image or video content showing “[a person’s genitals, for the purpose of their own sexual gratification or to cause the victim humiliation, alarm or distress”.](https://www.gov.uk/government/news/cyberflashing-to-become-a-criminal-offence)<br><br>This sub-technique can be used to document an analyst’s assessment that an actor has delivered unwanted sexual imagery to a target.</td>
-<td>TA31</td>
+<td><a href="techniques/T4604.001.md">T4604.001</a></td>
+<td>Content Constitutes Unsolicited Sexual Imagery</td>
+<td>Content is sexual in nature, and has been delivered unsolicited to an audience (AKA “cyberflashing”)</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.003.md">T0180.003</a></td>
-<td>Unsolicited Request for Sexual Imagery</td>
-<td>Unsolicited Request for Sexual Imagery is defined as any content which contains a request for the target to produce and deliver sexual imagery of themselves, colloquially referred to as ‘nudes’.<br><br>This sub-technique can be used to document an analyst’s assessment that an actor has submitted an unwanted request for sexual imagery to a target.</td>
-<td>TA31</td>
+<td><a href="techniques/T4604.002.md">T4604.002</a></td>
+<td>Content Constitutes Unsolicited Request for Sexual Imagery</td>
+<td>Content constitutes an unsolicited request for sexual imagery from an individual</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.004.md">T0180.004</a></td>
-<td>Voyeuristic Content</td>
-<td>Voyeuristic Content is defined as [image or video content secretively taken of another individual for a sexual purpose.](https://www.cigionline.org/publications/technology-facilitated-gender-based-violence-overview/) This sub-technique can be used to document an analyst’s assessment that an image or video meets the criteria of Voyeuristic Content.<br><br>Voyeuristic Content is typically produced using hidden cameras, or discreet photography techniques; using a zoom lens, or taking a photo when the target is not paying attention.<br><br>Actors have been observed attempting to produce Voyeuristic Content targeting women by taking photos up their skirts (called “Upskirting”) or down their tops (“Downblousing”) without their knowledge or consent. Actors also secretively photograph women from afar for sexual gratification (“Creepshots”).<br><br>Analysts will need to make an assessment about whether content was produced for sexual gratification, and whether the depicted individual was aware they were being filmed. Analysts may use context of the platform content was posted to, or how it was described by the actor, to make such an assessment.</td>
-<td>TA31</td>
+<td><a href="techniques/T4604.003.md">T4604.003</a></td>
+<td>Content Constitutes Voyeuristic Content</td>
+<td>Image or Video content secretively taken of another individual for sexual purpose</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.006.md">T0180.006</a></td>
+<td><a href="techniques/T4604.004.md">T4604.004</a></td>
 <td>Content Constitutes CSAM</td>
-<td>This sub-technique can be used to document an analyst’s assessment that an actor has published content which depicts child sexual abuse (also known as CSAM). AI-Generated content depicting children in sexually explicit ways is considered to be CSAM.<br><br>CSAM is defined by the U.S. Government as [any visual depiction of sexually explicit conduct involving a person less than 18 years old.](https://web.archive.org/web/20240419010350/https://www.dhs.gov/know2protect/key-definitions)</td>
-<td>TA31</td>
+<td>Content is media which show sexual abuse or exploitation of a child</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.007.md">T0180.007</a></td>
+<td><a href="techniques/T4604.005.md">T4604.005</a></td>
 <td>Content Constitutes Sextortion</td>
-<td>This sub-technique can be used to document an analyst’s assessment that content attempts to Sextort a target. [“Sexual extortion, or “sextortion,” occurs when an individual has, or claims to have, a sexual image of another person and uses it to coerce a person into doing something they do not want to do”.](https://www.cigionline.org/static/documents/SaferInternet_Paper_no_1_coverupdate.pdf)<br><br>To make this assessment, analysts must confirm that messaging threatens the non-consensual publication of sexual content depicting the target, with a demand for action.</td>
-<td>TA31</td>
+<td>Content extorts an individual with threat of non-consensual publication of sexual material depicting the target</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.008.md">T0180.008</a></td>
-<td>Abusive Content</td>
-<td>Abusive Content is defined as targeted negative messaging, unwanted by the recipient.<br><br>This sub-technique can be used to document an analyst’s assessment that an actor has published content with the intent of delivering an abusive, negative message to an individual, or group of individuals.<br><br>To identify abusive content, analysts must make an assessment about the intent of the person publishing the content, and how it was experienced by its target. Did the account select the content they published with the intent to cause distress in their target? Is it reasonable to assume the actor would be aware that the content they published is upsetting to their target audience?</td>
-<td>TA31</td>
+<td><a href="techniques/T4604.006.md">T4604.006</a></td>
+<td>Content Constitutes Abusive Content</td>
+<td>Content is targeted negative messaging, unwanted by the recipient</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.009.md">T0180.009</a></td>
-<td>Discriminatory Content</td>
-<td>Discriminatory Content is defined as harmful or negative messaging that perpetuates stereotypes, biases, or prejudices based on personal characteristics such as sexual orientation, gender, race, religion, disability, or other legally protected social identities or attributes. This content often reinforces harmful societal norms and can contribute to the marginalisation or stigmatisation of certain groups.<br><br>This sub-technique can be used to document an analyst’s assessment that an actor has published content which discriminates against protected characteristics of an individual, or a demographic of individuals.</td>
-<td>TA31</td>
+<td><a href="techniques/T4604.007.md">T4604.007</a></td>
+<td>Content Constitutes Discriminatory Content</td>
+<td>Content is harmful or negative messaging that perpetuates stereotypes, biases, or prejudices based on a single personal characteristic such as sexual orientation, gender, race, religion, disability, or other legally protected social identities or attributes.</td>
+<td>TA64</td>
 </tr>
 <tr>
-<td><a href="techniques/T0180.010.md">T0180.010</a></td>
-<td>Intersectional Discriminatory Content</td>
-<td>Discriminatory Content is defined as harmful or negative messaging that perpetuates stereotypes, biases, or prejudices based on personal characteristics such as sexual orientation, gender, race, religion, disability, or other legally protected social identities or attributes. This content often reinforces harmful societal norms and can contribute to the marginalisation or stigmatisation of certain groups.<br><br>Intersectional Discrimination occurs when content discriminates against two or more protected characteristics. This sub-technique can be used to document an analyst’s assessment that an actor has published content which discriminates against multiple protected characteristics of an individual, or a demographic of individuals.</td>
-<td>TA31</td>
+<td><a href="techniques/T4604.008.md">T4604.008</a></td>
+<td>Content Constitutes Intersectional Discriminatory Content</td>
+<td>Content is harmful or negative messaging that perpetuates stereotypes, biases, or prejudices based on multiple personal characteristic such as sexual orientation, gender, race, religion, disability, or other legally protected social identities or attributes.</td>
+<td>TA64</td>
+</tr>
+<tr>
+<td><a href="techniques/T4604.009.md">T4604.009</a></td>
+<td>Content Constitutes Eating Disorder Content</td>
+<td>Content promotes eating disorder behaviours, such as extremee weight loss, pro-anarexia or bulimia content, harmful diet and exertcise plans, or image or video content which may trigger harmful eating disorder behaviours</td>
+<td>TA64</td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td><a href="techniques/.md"></a></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
